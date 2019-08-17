@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dialog_message">Are u sure want to delete?</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+</resources>
